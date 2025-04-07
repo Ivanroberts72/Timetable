@@ -1,58 +1,55 @@
-Study Plan Website
+# Revision Time Table
 
-Overview
+## Description
 
-This project is a structured three-week study plan designed to help manage and organize your learning schedule efficiently. The website consists of multiple pages, each representing a week of focused study with detailed course topics and objectives.
+A brief description of your project.
 
-Features
+## Table of Contents
 
-Navigation Menu: Easily switch between different weeks.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Links](#links)
 
-Clean Design: User-friendly layout for better readability.
+## Installation
 
-Structured Study Plan: Covers all course units with dedicated focus areas.
+Instructions on how to install the project.
 
+```bash
+# Clone this repository
+git clone https://github.com/your_username/revision-time-table.git
 
-Files Included
+# Go into the repository
+cd revision-time-table
 
-index.html - Homepage with links to different weeks.
+# Install dependencies
+npm install
+```
 
-week1.html - Study plan for the first week.
+## Usage
 
-week2.html - Study plan for the second week.
+Instructions on how to use the project.
 
-week3.html - Study plan for the third week.
+```bash
+npm start
+```
 
-styles.css (optional) - CSS file for improved styling.
+## Contributing
 
+If you would like to contribute to this project, please follow these steps:
 
-How to Use
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -am 'Add a new feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Create a new Pull Request
 
-1. Open index.html in a web browser.
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-2. Click on the links to navigate between weeks.
+## Links
 
-
-3. Follow the structured study plan to stay on track.
-
-
-
-Future Enhancements
-
-Add JavaScript for interactive elements.
-
-Implement a progress tracker.
-
-Enhance mobile responsiveness.
-
-
-Author
-
-Womulira Ivan
-
-
----
-
-Stay focused and achieve your study goals! 🚀
-
+- [Project Documentation](https://github.com/ivanroberts/revision-time-table/docs)
+- [Issue Tracker](https://github.com/Ivanroberts/revision-time-table/issues)
